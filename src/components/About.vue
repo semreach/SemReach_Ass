@@ -19,11 +19,10 @@
                 <div class="right-text">
                   <h4>About Me</h4>
                   <p>
-                    I am a passionate Web Developer with expertise in creating responsive, user-friendly websites With a strong foundation in HTML, CSS, JavaScript, and frameworks like Bootstrap, I focus on building functional and visually appealing websites. I enjoy problem-solving and continuously learning new technologies to enhance user experience and website performance..
+                    I am a passionate Web Developer with expertise in creating responsive, user-friendly websites With a strong foundation in HTML, CSS, JavaScript, and frameworks like Bootstrap, I focus on building functional and visually appealing websites. I enjoy problem-solving and continuously learning new technologies to enhance user experience and website performance...
                   </p>
                   <div class="white-button">
                     <a href="#">Read More</a>
-                    <p>hello</p>
                   </div>
                 </div>
               </div>

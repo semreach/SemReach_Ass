@@ -40,7 +40,8 @@
       "no-mixed-spaces-and-tabs": "off",
       "no-unused-vars": "off",
       "no-undef": "off",
-      "vue/no-unused-components": "off"
+      "vue/no-unused-components": "off",
+      "vue/no-parsing-error":"off"
     }
   },
   "browserslist": [

@@ -1,4 +1,5 @@
 <template>
+  
       <!-- Sidebar Menu -->
       <div class="responsive-nav">
         <i class="fa fa-bars collapse" id="menu-toggle"></i>
