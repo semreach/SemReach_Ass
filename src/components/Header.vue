@@ -16,17 +16,10 @@
 			<!-- <h6 ><button @click="changeLng" style="background-color: red; color: white;">{{ $t("lang") }}</button></h6> -->
 		<button @click="changeLng('en')" id="changeLng" class="btn btn-primary"><img :src="imgs[currentImage]" id="img" alt="" height="20px"/></button>
 
-    <!-- <div class="container mt-3">
-      <button type="button" class="btn btn-primary">Toggle</button>
-      <div class="collapse">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      </div>
-    </div> -->
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
                 <li><router-link to="/about" href="#section1">{{ $t("about") }}</router-link></li>
-                <li><router-link to="/api" href="#section5">{{ $t("api") }}</router-link></li>
+                <li><router-link to="/api_lesson" href="#section5">{{ $t("api_lesson") }}</router-link></li>
                 <li><router-link to="/mywork" href="#section3">{{ $t("mywork") }}</router-link></li>
                 <li><router-link to="/service" href="#section2">{{ $t("service") }}</router-link></li>
                 <li><router-link to="/contact" href="#section4">{{ $t("contact") }}</router-link></li>

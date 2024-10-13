@@ -9,7 +9,7 @@ const messages = {
         contact:"Contact Me",
         name:"Reach KH",
         web:"Web Developer",
-        api:"API",
+        api_lesson:"API_Lesson",
         lang:"En",
 
     },
@@ -20,7 +20,7 @@ const messages = {
         contact:"ទាក់ទងមកខ្ញុំ",
         name:"ស៊ឹម រាជ",
         web:"អ្នកអភិវឌ្ឍន៍គេហទំព័រ",
-        api:"អេភីអាយ",
+        api_lesson:"មេរៀន",
         lang:"Kh",
     },
 }
