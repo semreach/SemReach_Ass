@@ -30,7 +30,7 @@ data(){
 },
 async created(){
   try {
-    const response = await axios.get('https://api.tfdevs.com/v1/courses/');
+    const response = await axios.get('https:///v1/courses/');
     // const response = await axios.get('/data-connection-count');
     const courses=response.data;
     // console.log(courses);
